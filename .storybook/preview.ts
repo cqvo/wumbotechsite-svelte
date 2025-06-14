@@ -1,5 +1,7 @@
 import type { Preview } from '@storybook/sveltekit'
 
+import '../src/app.css'
+
 const preview: Preview = {
   parameters: {
     controls: {
@@ -9,6 +11,14 @@ const preview: Preview = {
       },
     },
   },
+	decorators: [
+		(Story) => {
+			if (typeof document !== 'undefined') {
+				document.documentElement.setAttribute('data-theme', 'cerberus');
+			}
+			return Story();
+		}
+	]
 };
 
 export default preview;

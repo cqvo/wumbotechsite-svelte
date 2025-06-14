@@ -1,0 +1,45 @@
+{
+  "entries": [
+    {
+      "title": "Associate Director, Digital Analytics",
+      "organization": "Velir",
+      "location": "Boston, MA",
+      "type": "Experience",
+      "subtype": "Full-Time",
+      "text": "did some stuff",
+      "items": [
+        "Did the first thing",
+        "Did the second thing"
+      ],
+      "start_date": "October 1, 2022"
+    },
+    {
+      "title": "Senior Data Analyst",
+      "organization": "PS AI Labs",
+      "location": "Boston, MA",
+      "type": "Experience",
+      "subtype": "Full-Time",
+      "text": "did some other stuff",
+      "start_date": "July 1, 2020",
+      "end_date": "October 1, 2022"
+    },
+    {
+      "title": "MS, Applied Data Analytics",
+      "organization": "Boston University",
+      "location": "Boston, MA",
+      "type": "Education",
+      "text": "learned some stuff",
+      "start_date": "January 1, 2024",
+      "end_date": "May 1, 2025"
+    },
+    {
+      "title": "MBA, Business Analytics",
+      "organization": "University of Massachusetts - Boston",
+      "location": "Boston, MA",
+      "type": "Education",
+      "text": "learned some other stuff",
+      "start_date": "January 1, 2016",
+      "end_date": "December 1, 2018"
+    }
+  ]
+}
